@@ -27,3 +27,20 @@ border: 1px solid #dddddd;
 	border: 1px solid #dddddd;
 	padding: 5px;
 }
+.table1 {
+	widh: 100%;
+	margin-bottom: 40px;
+	border-color: indianred;
+	border: 3px solid #dddddd;
+	border-collapse: collaps; 
+}
+.table1 th {
+font-weight: bold;
+padding: 10px;
+backgroud: #efefef;
+border: 3px solid #dddddd;
+}
+.table1 td {
+	border: 20px solid #dddddd;
+	padding: 7px;
+}
