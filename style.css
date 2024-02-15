@@ -10,3 +10,20 @@ h3 {
 footer {
 	color: darkorange;
 }
+.table {
+	widh: 100%;
+	margin-bottom: 30px;
+	border-color: indianred;
+	border: 1px solid #dddddd;
+	border-collapse: collaps; 
+}
+.table th {
+font-weight: bold;
+padding: 5px;
+backgroud: #efefef;
+border: 1px solid #dddddd;
+}
+.table td {
+	border: 1px solid #dddddd;
+	padding: 5px;
+}
